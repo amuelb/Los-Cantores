@@ -191,6 +191,7 @@ border:0px solid;
 .cornfield{
 	/**/background: url(../images/cornfield.png) center top no-repeat;
 	height:200px;
+	
 	margin: 20px 0 0 0px;
 }
 .customdiv{
@@ -300,7 +301,7 @@ border: 0px solid;
 }
 .footer{
 	margin: 0 auto;
-	width:905px;
+	width:100%;
 	background-color:#619950;
 	padding: 20px 0;
 }

@@ -13,7 +13,7 @@
 // Edit the below fields
 $admin = 'amy@greenmeloninc.com' ; // Change to your admin email 'from' address
 $replymsg = 'Thank you for your email. We will respond shortly if required.' ; // Reply message to send
-$formurl = 'http://amuelb.github.io/Los-Cantores/contact.html' ; // the URL where the form code is - default: form.php
+$formurl = 'http://amuelb.github.io/Los-Cantores/contact.php' ; // the URL where the form code is - default: form.php
 $errorurl = 'error.html' ; // the URL to show on error - default error.html
 $thankyouurl = 'index.html' ; // the URL to show feedback submitted - default: thankyou.html
 // Security code to prevent addition of extra emails by spambots

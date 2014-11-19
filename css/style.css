@@ -584,27 +584,3 @@ margin-top: 10px;
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-<!--
-/* -------------- Specific Form Rules Item 1b------------- */
-fieldset { width: 350px; border: 4px solid #aaa; padding: 10px; }
-#formplusreply label { display: block; font-weight: bold; width: 150px; margin: 15px 0 3px 0; cursor: pointer; }/*width of label controls pointer and clickable width*/
-/*display: block so that the tags go to the next line*/
-#formplusreply input, #formplusreply textarea, #formplusreply select { display: block; font-weight: bold; margin: 3px 0; }
-#formplusreply .type2 { display: inline; } /*where the tag is not required on the next line for radio tags and checkboxes*/
-#formplusreply textarea { width: 350px; overflow: auto; /* removes IE scrollbar */ }
-#formplusreply input:focus, #formplusreply submit:focus, #formplusreply textarea:focus, #formplusreply select:focus { outline: 0; /* to delete Safari's blue border */ }
-.req { color: #ff0000; padding: 0 5px; }
-#formplusreply label.submit { width: 75px; }
-#submit { cursor: pointer; }
-#formplusreply input.botcatch { visibility: hidden; height: 0; line-height: 0; font-size: 0; margin: 0; padding: 0; border: none; }
--->
